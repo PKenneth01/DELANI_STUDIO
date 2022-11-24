@@ -1,0 +1,72 @@
+.top-section {
+  background-image: url("../img/backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-size: 100% 100%; */
+  color: #ffffff;
+}
+
+.about-section {
+  color: #333;
+}
+
+
+.services-section {
+  background-image: url("../img/backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-size: 100% 100%; */
+  color: #ffffff;
+}
+
+.what-we-do-section {
+  color: #333;
+}
+
+
+.portfolio-section {
+  color: #333;
+}
+
+.contact-us-section {
+  background-image: url("../img/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-us-section h1 {
+  color: white
+}
+
+.form-control,
+input[type="text"],
+textarea,
+.form-control:hover,
+input[type="text"]:hover,
+textarea:hover,
+.form-control:focus,
+input[type="text"]:focus,
+textarea:focus {
+  background: transparent;
+  color: white
+}
+
+.hidden {
+  display: none;
+}
+
+.item-hover {
+  display: relative;
+}
+
+.image-description {
+  display: absolute;
+  bottom: 50%;
+  background: rgba(0, 0, 0, .4);
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
